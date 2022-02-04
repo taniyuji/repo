@@ -2,5 +2,5 @@
 
 
 int main(){
-printf("眠い\n");
+printf("やっぱ眠くない\n");
 }
