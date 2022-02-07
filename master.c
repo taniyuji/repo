@@ -2,4 +2,5 @@
 
 int main(){
   printf("masuter created");
+  printf("git merge");
 }
