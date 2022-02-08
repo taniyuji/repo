@@ -8,4 +8,5 @@ printf("git diffするよ");
 printf("git commit --amend");
 printf("conflict");
 printf("pull reqest");
+printf("github flow");
 }
