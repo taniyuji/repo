@@ -7,4 +7,5 @@ pritnf("ふつうにコミットさせて");
 printf("git diffするよ");
 printf("git commit --amend");
 printf("conflict");
+printf("pull reqest");
 }
